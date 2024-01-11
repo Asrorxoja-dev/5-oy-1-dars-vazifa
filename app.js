@@ -75,7 +75,8 @@
 //     ];
     
     
-//     console.log(products[1].name);
+    // console.log(products[1].name);
+    // /
     
 
 
